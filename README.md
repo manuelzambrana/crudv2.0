@@ -3,8 +3,8 @@
 Este ejercicio consistirá en un CRUD sobre los datos de un instituto, donde tendremos tablas como: Alumnos, Profesores, asiganturas,material etc...
 
 
-El inicio sesión del crud costa de un E-mail y contraseña para poder entrar
-(Vale cualquiera ya que no hay registro de usuario)
+El inicio sesión del crud costa de un usuario y contraseña para poder entrar
+(root,root usuario,usuario admin,admin)
 
 <img src="imagenes/inicioSesion.png" width="700px">
 
@@ -15,6 +15,7 @@ Aquí podremos ver una barra de navegación también
 
 
 En añade alumnos podremos entrar a una pestaña para poder añadir alumnos
+y podemos elegir una modalidad con un arraylist
 <img src="imagenes/alumno.png" width="700px">
 
 Eliminar (como el alumno con id 1)
