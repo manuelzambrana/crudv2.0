@@ -14,8 +14,8 @@ Aquí podremos ver una barra de navegación también
 <img src="imagenes/inicio.png" width="700px">
 
 
-En añade alumnos podremos entrar a una pestaña para poder añadir alumnos
-y podemos elegir una modalidad con un arraylist
+En añade alumnos podremos entrar a una pestaña para poder añadir alumnos y podemos elegir una modalidad con un arraylist
+
 <img src="imagenes/alumno.png" width="700px">
 
 Eliminar (como el alumno con id 1)
